@@ -61,3 +61,18 @@
     - Distribution Layer
     - Core Layer
 
+## Network Devices
+- Hub
+    - Layer 1 device
+    - Broadcasts everything to every device connected
+- Repeater
+    - Layer 1 device
+    - Takes input and resends it to somewhere
+    - Used to extend range of cables
+- Switch
+    - Layer 2 device
+    - Sends packets to devices based on MAC addresses
+- Router
+    - Layer 3 device
+    - Sends things to devices based on IP addresses
+  
