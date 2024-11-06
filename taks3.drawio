@@ -271,7 +271,7 @@
         <mxCell id="Y8kWIEE1diTFadLrnRW2-76" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="Y8kWIEE1diTFadLrnRW2-77">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="215" y="150" as="sourcePoint" />
-            <mxPoint x="260" y="660" as="targetPoint" />
+            <mxPoint x="-80" y="450" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Y8kWIEE1diTFadLrnRW2-78" value="&lt;div&gt;Atalantica government server&lt;/div&gt;&lt;div&gt;10.4.0.0/24&lt;/div&gt;&lt;div&gt;10.5.0.0/24&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
