@@ -91,13 +91,13 @@
             <mxPoint x="379.5" y="610" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FEGHOh97G0aMoszQ8Zkd-21" value="192.168.0.20" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="FEGHOh97G0aMoszQ8Zkd-21" value="SSH-02&lt;br&gt;&lt;div&gt;192.168.0.20&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-140" y="680" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="FEGHOh97G0aMoszQ8Zkd-23" value="192.168.0.30" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="FEGHOh97G0aMoszQ8Zkd-23" value="SSH-03&lt;br&gt;&lt;div&gt;192.168.0.30&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-40" y="680" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="FEGHOh97G0aMoszQ8Zkd-24" value="192.168.0.40" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="FEGHOh97G0aMoszQ8Zkd-24" value="&lt;div&gt;SSH-04&lt;br&gt;&lt;/div&gt;&lt;div&gt;192.168.0.40&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="60" y="680" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FEGHOh97G0aMoszQ8Zkd-25" value="192.168.0.200" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -108,6 +108,15 @@
         </mxCell>
         <mxCell id="FEGHOh97G0aMoszQ8Zkd-27" value="192.168.0.254" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="360" y="680" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FEGHOh97G0aMoszQ8Zkd-28" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="240" y="460" as="sourcePoint" />
+            <mxPoint x="240" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FEGHOh97G0aMoszQ8Zkd-29" value="&lt;div&gt;Reverse bing chillin&lt;/div&gt;&lt;div&gt;bing chillin &lt;br&gt;&lt;/div&gt;&lt;div&gt;bing chillin&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;do better&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="260" y="370" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
