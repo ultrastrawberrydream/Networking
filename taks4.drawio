@@ -142,19 +142,19 @@
         <mxCell id="e0j894PYuPeoqC5ZKq9c-7" value="&lt;div&gt;SSH-06&lt;/div&gt;&lt;div&gt;172.16.0.60&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="60" y="875" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="e0j894PYuPeoqC5ZKq9c-9" value="&lt;div&gt;51700 -&amp;gt; SSH-02:3333&lt;br&gt;&lt;/div&gt;&lt;div&gt;51701 -&amp;gt; SSH-04:5555&lt;/div&gt;&lt;div&gt;51702 -&amp;gt; SSH-06:23&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="460" y="300" width="160" height="80" as="geometry" />
+        <mxCell id="e0j894PYuPeoqC5ZKq9c-9" value="&lt;div&gt;51700 -&amp;gt; SSH-02:3333&lt;br&gt;&lt;/div&gt;&lt;div&gt;51701 -&amp;gt; SSH-04:5555&lt;/div&gt;&lt;div&gt;51702 -&amp;gt; SSH-06:23&lt;/div&gt;&lt;div&gt;51703 -&amp;gt; SSH-06:22&lt;/div&gt;&lt;div&gt;51704 -&amp;gt; SSH-09:2222&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="470" y="310" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="e0j894PYuPeoqC5ZKq9c-11" value="&lt;div&gt;51799 reverse to T5 from BH&lt;/div&gt;51798 reverse to SSH-06 from SSH-04" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="670" y="310" width="250" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="e0j894PYuPeoqC5ZKq9c-12" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="e0j894PYuPeoqC5ZKq9c-12" value="1337" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="-50" y="1190" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="e0j894PYuPeoqC5ZKq9c-13" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="e0j894PYuPeoqC5ZKq9c-13" value="80,3389" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="50" y="1190" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="e0j894PYuPeoqC5ZKq9c-14" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="e0j894PYuPeoqC5ZKq9c-14" value="21,80,2222" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="150" y="1190" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="e0j894PYuPeoqC5ZKq9c-15" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1">
@@ -175,13 +175,13 @@
             <mxPoint x="179.5" y="1090" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="e0j894PYuPeoqC5ZKq9c-18" value="172.16.0.70" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="e0j894PYuPeoqC5ZKq9c-18" value="SSH-07&lt;br&gt;&lt;div&gt;172.16.0.70&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-40" y="1160" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="e0j894PYuPeoqC5ZKq9c-19" value="172.16.0.80" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="e0j894PYuPeoqC5ZKq9c-19" value="SSH-08&lt;br&gt;&lt;div&gt;172.16.0.80&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="60" y="1160" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="e0j894PYuPeoqC5ZKq9c-20" value="172.16.0.90" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="e0j894PYuPeoqC5ZKq9c-20" value="SSH-09&lt;br&gt;&lt;div&gt;172.16.0.90&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="160" y="1160" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="e0j894PYuPeoqC5ZKq9c-21" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1">
@@ -195,6 +195,18 @@
             <mxPoint x="-30" y="1070" as="sourcePoint" />
             <mxPoint x="190" y="1070" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="e0j894PYuPeoqC5ZKq9c-23" value="23,80" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="160" y="1390" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="e0j894PYuPeoqC5ZKq9c-24" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="189.5" y="1350" as="sourcePoint" />
+            <mxPoint x="189.5" y="1290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e0j894PYuPeoqC5ZKq9c-25" value="SSH-10&lt;br&gt;&lt;div&gt;172.16.0.100&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="170" y="1360" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
