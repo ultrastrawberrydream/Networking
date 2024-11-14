@@ -112,23 +112,20 @@
         <mxCell id="tuVfp5GaI5sKtkc8t0Ae-49" value="10.1.1.126" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="595" y="700" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="tuVfp5GaI5sKtkc8t0Ae-50" value="&lt;div&gt;RIPv2 running on 10.1.1.0/25&lt;/div&gt;&lt;div&gt;sniff traffic to find networks&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="307.5" y="840" width="47.5" height="30" as="geometry" />
+        <mxCell id="tuVfp5GaI5sKtkc8t0Ae-57" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="295" y="930" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="tuVfp5GaI5sKtkc8t0Ae-51" value="webservice on private ipv4 addressing rfc# port" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="70" y="810" width="115" height="30" as="geometry" />
+        <mxCell id="tuVfp5GaI5sKtkc8t0Ae-58" value="1.1.1.1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="305" y="801" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="tuVfp5GaI5sKtkc8t0Ae-53" value="Look at pcap in share folder" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="75" y="860" width="105" height="30" as="geometry" />
+        <mxCell id="tuVfp5GaI5sKtkc8t0Ae-59" value="1.1.1.2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="305" y="900" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="tuVfp5GaI5sKtkc8t0Ae-54" value="webservice on ipv4 header structure&amp;nbsp; rfc# port" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="187.5" y="830" width="95" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="tuVfp5GaI5sKtkc8t0Ae-55" value="hint in student home drive, use ftp to get there , no ssh on this system" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="205" y="930" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="tuVfp5GaI5sKtkc8t0Ae-56" value="&lt;div&gt;This box is being attacked by capstone-05&lt;/div&gt;&lt;div&gt;use a sniffing tool to find a message being sent&lt;/div&gt;&lt;div&gt;port is related to w32/blaster worm&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="290.25" y="980" width="82" height="30" as="geometry" />
+        <mxCell id="tuVfp5GaI5sKtkc8t0Ae-60" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="334.5" y="901" as="sourcePoint" />
+            <mxPoint x="334.5" y="831" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
