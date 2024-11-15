@@ -440,8 +440,8 @@
             <mxPoint x="99.5" y="1286.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tuVfp5GaI5sKtkc8t0Ae-142" value="192.168.10.101" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="70" y="1366.5" width="60" height="30" as="geometry" />
+        <mxCell id="tuVfp5GaI5sKtkc8t0Ae-142" value="capstone-13&lt;br&gt;&lt;div&gt;192.168.10.101&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="60" y="1357.5" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="tuVfp5GaI5sKtkc8t0Ae-143" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="150" y="1387.5" width="80" height="80" as="geometry" />
@@ -464,8 +464,8 @@
             <mxPoint x="289.5" y="1286.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tuVfp5GaI5sKtkc8t0Ae-148" value="192.168.10.111" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="260" y="1366.5" width="60" height="30" as="geometry" />
+        <mxCell id="tuVfp5GaI5sKtkc8t0Ae-148" value="capstone-14&lt;br&gt;&lt;div&gt;192.168.10.111&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="250" y="1357.5" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="tuVfp5GaI5sKtkc8t0Ae-149" value="" style="shape=link;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="100" relative="1" as="geometry">
